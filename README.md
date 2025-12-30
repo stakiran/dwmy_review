@@ -1,5 +1,8 @@
 # DWMY Review
 
-## 👉️[日本語](index.md)
+## Website
+- 👉️[DWMY Review | dwmy_review](https://stakiran.github.io/dwmy_review/)
 
-## 👉️[English](index_EN.md)
+## Github
+- 👉️[日本語](index.md)
+- 👉️[English](index_EN.md)
